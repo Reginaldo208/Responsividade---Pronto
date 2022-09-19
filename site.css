@@ -176,3 +176,20 @@ table
 {
     align-self:flex-end;
 }
+
+#video
+{
+    background-color: rgba(0, 0, 0, 0.233);
+    max-width:450px ;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+#video_c
+{
+    background-color: rgba(0, 0, 0, 0.233);
+    margin: auto;
+    border-radius: 15px;
+}
+
