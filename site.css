@@ -18,22 +18,15 @@ main
 {   
     display: flex;
     background-color: rgba(48, 33, 59, 0.705);
-    box-shadow: 0px 0px 5px;
-    margin: auto;
+    position: fixed;
+    top: 10px;
+    left: 10px; 
+    right: 10px;
+    padding: 10px 15px;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
     z-index: 999;
-    width: 100%;
-    max-width: 800px;
 }
 
-.pai
-{
-    background: rgba(0, 0, 0, 0);
-    position: fixed;
-    width: 100%;
-    max-width: 100%;
-    z-index: 999;
-    padding: 0px;
-}
 
 #nav
 {
